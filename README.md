@@ -1,7 +1,6 @@
-Конечно, вот ваш обновленный README.md:
 
 ```markdown
-# Blog API Django (Practice AITU)
+# Blog API Django
 
 This project is a simple blog API implemented in Django, using Django REST Framework.
 
