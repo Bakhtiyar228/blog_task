@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development settings
+.env
+/.vscode
+/.idea
+*.sqlite3
+
+# Static files
+/staticfiles/
+
+# Media files
+/media/
+
+# Compiled Python bytecode
+*.pyc
+
+# Log files
+*.log
+
+# Backup files
+*~
+
+# macOS
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Ignore the virtual environment
+venv/
